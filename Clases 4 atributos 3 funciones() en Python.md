@@ -1,4 +1,4 @@
-Aquí tienes 20 ejemplos de clases con 4 atributos y 3 funciones cada una:
+Aquí tienes 60 ejemplos de clases con 4 atributos y 3 funciones cada una:
 
 1. **Paciente**
    - Atributos: nombre, edad, enfermedad, tipoSangre
@@ -81,7 +81,7 @@ Aquí tienes 20 ejemplos de clases con 4 atributos y 3 funciones cada una:
     - Funciones: alimentarAnimales(), guiarTour(), mantenerHabitat()
 
 
-Aquí tienes 30 ejemplos adicionales, numerados del 21 al 50:
+
 
 21. **Avion**
     - Atributos: modelo, aerolinea, capacidadPasajeros, autonomiaVuelo
